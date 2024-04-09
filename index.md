@@ -9,10 +9,10 @@ I am Hritik Bharucha and I was born and raised in **San Diego, California**
 I can program a *Hello World* function in Python.
 > Talk is cheap. Show me the code – Linus Torvalds
 
-'''
+```
 def print_hello_world:
     print("Hello World")
-'''
+```
 
 My [github](https://github.com/hritikbharucha) shows more of my work.
 
